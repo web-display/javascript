@@ -1,0 +1,21 @@
+[
+  {
+    "id":1,
+    "name":"HTML"
+  },{
+    "id":2,
+    "name":"css"
+  },{
+    "id":3,
+    "name":"JavaScript"
+  },{
+    "id":4,
+    "name":"Vue"
+  },{
+    "id":5,
+    "name":"React"
+  },{
+    "id":6,
+    "name":"Redux"
+  }
+]
